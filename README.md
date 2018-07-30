@@ -9,5 +9,7 @@ a) Machine Learning models - Machine Learning models are mainly classified as - 
       Ex - K means clustering , Apriori , Hidden Markov model.
    * Reinforced - Model learns from past errors and corrects in the next iteration.
    
-b) Matplotlib - This sub-branch features various examples in a Jupyter(iPython) notebook to plot graphs using the Matplotlib library.
+b) Matplotlib - Matplotlib is a library used for data exploration and visualizaion in the form of bar chart , pie chart , scatter plot ,      error chart etc.
+   
+   This sub-branch features various examples in a Jupyter(iPython) notebook to plot graphs using the Matplotlib library.
      
