@@ -1,6 +1,6 @@
 # Machine-Learning
 
-This branch consists of sub-branches:
+
 
 a) Machine Learning models - Machine Learning models are mainly classified as - Supervised , Unsupervised and Reinforced models.
    * Supervised - Data is labelled.
@@ -9,7 +9,5 @@ a) Machine Learning models - Machine Learning models are mainly classified as - 
       Ex - K means clustering , Apriori , Hidden Markov model.
    * Reinforced - Model learns from past errors and corrects in the next iteration.This is used for deep learning applications like self        driving cars.
    
-b) Matplotlib - Matplotlib is a library used for data exploration and visualizaion in the form of bar chart , pie chart , scatter plot ,      error chart etc.
-   
-   This sub-branch features various examples in a Jupyter(iPython) notebook to plot graphs using the Matplotlib library.
+
      
