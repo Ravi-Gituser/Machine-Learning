@@ -3,7 +3,7 @@
 
 ### Install
 
-This project requires **Python** and the following Python libraries installed:
+This project uses **Python** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
