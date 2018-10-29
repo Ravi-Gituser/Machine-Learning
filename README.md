@@ -2,7 +2,7 @@
 
 
 
-a) Machine Learning models - Machine Learning models are mainly classified as - Supervised , Unsupervised and Reinforced models.
+ Machine Learning models - Machine Learning models are mainly classified as - Supervised , Unsupervised and Reinforced models.
    * Supervised - Data is labelled.
       Ex - Linear regression , Polynomial regression , Decision trees , Random forest ,  K nearest neighbours(KNN) , Naive Bayes theorem ,            Support vector machines(SVM).
    * Unsupervised - Data is not labelled.
