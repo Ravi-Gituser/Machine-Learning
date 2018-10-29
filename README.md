@@ -2,6 +2,13 @@
 
 Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 
+# Machine Learning Techniques 
+   * Regression
+   * Classification
+   * Clustering
+   * Anomaly Detection
+   * Reinforcement learning
+
  Machine Learning models - Machine Learning models are mainly classified as - Supervised , Unsupervised and Reinforced models.
    * Supervised - Data is labelled.
       Ex - Linear regression , Polynomial regression , Decision trees , Random forest ,  K nearest neighbours(KNN) , Naive Bayes theorem ,            Support vector machines(SVM).
