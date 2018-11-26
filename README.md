@@ -2,7 +2,7 @@
 
 Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 
-# Machine Learning Techniques 
+## Machine Learning Techniques 
    * Regression
    * Classification
    * Clustering
@@ -16,7 +16,7 @@ Machine learning is an application of artificial intelligence (AI) that provides
                 * Classification - This technique is used where the variable values are finite in nature.In other words the outcome can be                   any one among a fixed set of values. Ex - Is it raining outside ? , Who won the match ? , How many varieties of mangoes                   are available etc.
       Supervised models - Linear regression , Polynomial regression , Decision trees , Random forest ,  K nearest neighbours(KNN) , Naive Bayes theorem ,  Support vector machines(SVM).
       
-   * Unsupervised- Here the data is not labelled.The model is trained to find hidden patterns from the data that cannot be deciphered by                     humans.
+   * Unsupervised-Here the data is not labelled.The model is trained to find hidden patterns from the data that cannot be deciphered by                     humans.
                   One of the widely used technique of Unsupervised learning is 'Clustering'.
                 * Clustering - Clustering is a technique where the entire unlabelled data is broadly categorised into different                             clusters/sectors depending on the similarity of each data point.
       Unsupervised models - K means clustering , Apriori , Hidden Markov model.
