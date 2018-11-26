@@ -21,7 +21,7 @@ Machine learning is an application of artificial intelligence (AI) that provides
      Here the data is not labelled.The model is trained to find hidden patterns from the data that cannot be deciphered by                      humans. One of the widely used technique of Unsupervised learning is 'Clustering'.
       * Clustering - Clustering is a technique where the entire unlabelled data is broadly categorised into different                             clusters/sectors depending on the similarity of each data point.
       
-       *Unsupervised models* - K means clustering , Apriori , Hidden Markov model.
+       *Unsupervised models* - K means clustering , Apriori .
       
   * Reinforced - Model learns from past errors and corrects in the next iteration. This is used for deep learning applications like self                    driving cars , chatbots , recommender systems , computer vision , image/object detection etc.
   
