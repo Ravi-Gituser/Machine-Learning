@@ -23,6 +23,8 @@ Machine learning is an application of artificial intelligence (AI) that provides
       Unsupervised models - K means clustering , Apriori , Hidden Markov model.
       
   * Reinforced - Model learns from past errors and corrects in the next iteration.This is used for deep learning applications like self                    driving cars , chatbots , recommender systems , computer vision , image/object detection etc.
+  
+  :smiley:
    
 
      
