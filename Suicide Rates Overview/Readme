@@ -1,0 +1,4 @@
+This notebook contains a visualization of suicide rates across all nations for every year. 
+The data is modified so as to classify all the years broadly into three decades namely : 1987-1996,1997-2006,2007-2016.
+The top 10 countries with highest and least suicide rates are visualized along with the top 10 countries with increasing/decreasing 
+suicide rates for the three decades.
